@@ -1,2 +1,2 @@
 <?php
-include 'home.html';
+include_once 'app.html';
